@@ -34,7 +34,7 @@ def replace_text_in_paragraph(paragraph, key, value):
 
 
 if __name__ == '__main__':
-    # setup your onboarding date here
+    # setup your onboarding date here and range 
     onboarding = datetime.datetime.strptime("03/16/2022","%m/%d/%Y")
     for i in range(1,21):
         d = datetime.timedelta(days=14)
