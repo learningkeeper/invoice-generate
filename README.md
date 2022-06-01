@@ -1,4 +1,4 @@
-# invoice-generate
+# invoice-generator
 
 Prepare a word template named `template-invoice.docx`
 
